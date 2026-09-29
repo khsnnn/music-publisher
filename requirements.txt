@@ -1,0 +1,7 @@
+mutagen
+Pillow
+python-telegram-bot
+typer
+rich
+rapidfuzz
+tomli
